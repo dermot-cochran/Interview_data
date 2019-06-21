@@ -1,3 +1,11 @@
+#
+
+See https://github.com/dermot-cochran/Interview_data/blob/master/CaseStudyPresentation.pptx
+
+and
+
+https://github.com/dermot-cochran/Interview_data/blob/master/Case%20Study.ipynb
+
 # OpenJaw T-Data Data Science Interview Case Study 
 
 Congratulations on making it to the next stage of the interview process. This section is a case study involving openly available airline departure and arrivals data, along with associated weather data. The high-level aim of the case study is to evaluate how you go about solving data problems that are like the ones that you will be solving as a data scientist at OpenJaw. 
